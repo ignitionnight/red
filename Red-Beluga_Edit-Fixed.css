@@ -228,7 +228,7 @@ select, textarea {
 
 input[type=email]:focus, input[type=password]:focus, input[type=text]:focus,
 input[type=search]:focus, select:focus, textarea:focus {
-    color: #2b2b2b;
+    color: #f4f4f4;
     border: 1px solid rgba(255, 255, 255, .2)
 }
 
@@ -356,7 +356,7 @@ table.box, table.box2 {
     margin-top: 4px;
     border: none;
     color: #29262d;
-    background-color: #f4f4f4
+    background-color: #2b2b2b
 }
 
 .autocomplete-suggestions .autocomplete-suggestion {
@@ -1481,4 +1481,5 @@ blockquote {
 #searchbars .search_form input:focus {
     background: #29262d
 }
+
 
