@@ -356,7 +356,7 @@ table.box, table.box2 {
     margin-top: 4px;
     border: none;
     color: #29262d;
-    background-color: ##3f3e46
+    background-color: #373A42
 }
 
 .autocomplete-suggestions .autocomplete-suggestion {
@@ -365,7 +365,7 @@ table.box, table.box2 {
 }
 
 .autocomplete-suggestions .autocomplete-suggestion.autocomplete-selected {
-    background-color: ##3f3e46
+    background-color: #373A42
 }
 
 .autocomplete-suggestions .autocomplete-suggestion strong {
@@ -1481,4 +1481,3 @@ blockquote {
 #searchbars .search_form input:focus {
     background: #29262d
 }
-
