@@ -356,7 +356,7 @@ table.box, table.box2 {
     margin-top: 4px;
     border: none;
     color: #29262d;
-    background-color: #f4f4f4
+    background-color: ##3f3e46
 }
 
 .autocomplete-suggestions .autocomplete-suggestion {
@@ -365,7 +365,7 @@ table.box, table.box2 {
 }
 
 .autocomplete-suggestions .autocomplete-suggestion.autocomplete-selected {
-    background-color: #fad5cd
+    background-color: ##3f3e46
 }
 
 .autocomplete-suggestions .autocomplete-suggestion strong {
