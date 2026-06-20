@@ -228,7 +228,7 @@ select, textarea {
 
 input[type=email]:focus, input[type=password]:focus, input[type=text]:focus,
 input[type=search]:focus, select:focus, textarea:focus {
-    color: ##2b2b2b;
+    color: #2b2b2b;
     border: 1px solid rgba(255, 255, 255, .2)
 }
 
